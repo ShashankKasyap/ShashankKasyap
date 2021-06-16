@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShashankKasyap
-- 👀 Sucker to Webdev
+- 👀 Wants to be a Webdev one day..
 - 🌱 I’m currently learning CSS and  programming languages include java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shashankasyap123@gmail.com
