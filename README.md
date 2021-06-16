@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShashankKasyap
-- 👀 Wants to be a Webdev one day..
-- 🌱 I’m currently learning CSS and  programming languages include java and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 Wants to be a Webdev one day
+- 🌱 I’m currently learning CSS and programming languages such as java and python
 - 📫 How to reach me shashankasyap123@gmail.com
 
 <!---
