@@ -39,6 +39,3 @@ My focus is on **fundamentals-first security analysis** — understanding logs, 
 
 ## 📫 Contact
 Email: starws5001@gmail.com
-
-## 📫 Contact
-Email: shashankkasyap123@gmail.com
